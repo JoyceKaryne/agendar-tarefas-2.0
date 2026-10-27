@@ -1,0 +1,15 @@
+.tarefas{
+    margin-top: 50px;
+}
+
+.erro {
+    color: red;
+    font-size: 13px;
+    display: block;
+    margin-top: -10px;
+}
+
+.concluida {
+    text-decoration: line-through;
+    color: gray;
+}
